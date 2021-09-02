@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Card\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=inID\ inName\ inLuxuryRating\ inNumCredits
+comment1.target=Card(int,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Card\r\n
+comment10.params=
+comment10.target=boolean\ checkRide()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=Num
+comment2.target=void\ addCredits(int)
+comment3.params=Num
+comment3.target=void\ addPoints(int)
+comment4.params=Num
+comment4.target=void\ spendCredits(int)
+comment5.params=
+comment5.target=void\ covertLoyaltyPoints()
+comment6.params=
+comment6.target=int\ accessRating()
+comment7.params=
+comment7.target=int\ accessCredits()
+comment8.params=
+comment8.target=int\ accessID()
+comment9.params=Test
+comment9.target=boolean\ checkID(int)
+numComments=12

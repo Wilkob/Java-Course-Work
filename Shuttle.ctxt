@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Shuttle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Shuttle\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=injourneycode\ insourceworld\ indestinationworld
+comment1.target=Shuttle(java.lang.String,\ World,\ World)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Shuttle\r\n
+comment10.params=Guest
+comment10.target=java.lang.String\ AttemptTravel(Card)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=MaybeCode
+comment2.target=boolean\ checkJourneyCode(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getJourneyCode()
+comment4.params=
+comment4.target=World\ checkSourceWorld()
+comment5.params=
+comment5.target=World\ checkDestinationWorld()
+comment6.params=NewCode
+comment6.target=void\ changeJourneyCode(java.lang.String)
+comment7.params=NewWorld
+comment7.target=void\ changeDesWorld(World)
+comment8.params=NewWorld
+comment8.target=void\ changeSourceWorld(World)
+comment9.params=Guest
+comment9.target=boolean\ checkTravel(Card)
+numComments=12
